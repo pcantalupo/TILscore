@@ -1,0 +1,5 @@
+id: 'software_versions'
+section_name: 'uclab/rnaseq Software Versions'
+plot_type: 'html'
+description: 'Software versions used in the pipeline'
+data:
